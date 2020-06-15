@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+}
+
+.heading{
+    border: 0.2em;
+    border-color: black;
+    padding: 2em;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+.content{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    background-color: hotpink;
+    font-size: 1.3em;
+    padding: 3em;
+
+}
+
+.foots{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    background-color: lawngreen;
+    padding: 2em;
+}

@@ -1,8 +1,9 @@
 import React from "react"
+import "./componentStyles/style.css"
 
 function MainContent(){
     return(
-        <par>
+        <par className="content">
             <ul>
                 <li>This is a good website</li>
                 <li>I am the best programmer</li>
